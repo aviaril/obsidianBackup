@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Hardware  ",
+      "color": {
+        "a": 1,
+        "rgb": 9900562
+      }
+    },
+    {
+      "query": "path:Software  ",
+      "color": {
+        "a": 1,
+        "rgb": 1199771
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.03899077668174,
+  "collapse-forces": false,
+  "centerStrength": 0.413945372315801,
+  "repelStrength": 12.6548199850433,
+  "linkStrength": 0.808233325024038,
+  "linkDistance": 82,
+  "scale": 0.9727718270812916,
+  "close": true
+}

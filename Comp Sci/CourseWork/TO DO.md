@@ -1,0 +1,35 @@
+- [ ] Find what I need to learn 
+- [ ] Find tutorials about the subject, record what tutorials I complete
+	- [ ] Loading zones
+	- [ ] collision
+	- [ ] Tick systems
+	- [ ] Flight mechanics
+- [ ] Get the player moving and collisions working
+- [ ] Create a simple version of the map 
+	- [ ] main island
+	- [ ] manor
+	- [ ] secondary island #1 
+		- oval shaped surface covered in forest
+		- cabin in the forest
+		- small river?
+		- home to grounds keeper
+	- [ ] secondary island #2
+		- Cave
+		- Lantern on stick outside
+- [ ] Create the flight system
+	- [ ] gliding
+	- [ ] landing
+	- [ ] diving 
+	- [ ] flapping 
+- [ ] refine concepts for islands 
+- [ ] build puzzles 
+	- [ ] combi lock
+	- [ ] ...
+	- [ ] 
+- [ ] Add simple NPCs 
+- [ ] refine story 
+	- [ ] How was the victim killed 
+	- [ ] Decide motive for main character 
+	- [ ] Decide who the killer is, is it player if so how do I surprise the player with it 
+- [ ] Animate the player
+- [ ] improve map

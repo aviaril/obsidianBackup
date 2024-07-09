@@ -1,0 +1,6 @@
+I would like to make a puzzle game where the player plays as a goose trying to solve a murder. I will be building the game using unity and the models using blender, the gameplay loop will consist of being sent to search for clues at an island, *flying* to the island and then solving a puzzle at the island to find or make sense of the clue before returning to the start point The stakeholders would likely be casual PC gamers new to puzzle games likely in the age range of 15-30, I believe this because puzzle games are popular with people around 30.
+Some of the tutorials I use for this project include;
+- *Game development with blender and Godot* by Kumsal Obuz
+- 
+The project would make use of Object Oriented programming, in particular C++, Loops, File access for the save function, simple AI for the enemies, a tick system to better optimise the game as well as flocking algorithms (in this case Boids) for birds in the background.
+For this project I will be researching model design, puzzle design, collision, basic physics simulation (for the flying section), basic 3d animation as well as common optimisation practices. 
