@@ -1,7 +1,10 @@
 - [ ] Find what I need to learn 
 - [ ] Find tutorials about the subject, record what tutorials I complete
+	- [ ] Camera
+	- [ ] Movement
+		- https://www.google.com/search?client=firefox-b-d&q=unity+movement#fpstate=ive&vld=cid:f7a7c71c,vid:UCwwn2q4Vys,st:0
+	- [ ] Collision
 	- [ ] Loading zones
-	- [ ] collision
 	- [ ] Tick systems
 	- [ ] Flight mechanics
 - [ ] Get the player moving and collisions working
@@ -32,4 +35,5 @@
 	- [ ] Decide motive for main character 
 	- [ ] Decide who the killer is, is it player if so how do I surprise the player with it 
 - [ ] Animate the player
+	- [ ] Skeletal?
 - [ ] improve map
