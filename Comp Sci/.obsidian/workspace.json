@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c85542565509a29",
+            "id": "74320e2fb0fffe6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics.md",
+                "file": "course work journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics.md",
+                "file": "course work journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics.md",
+                "file": "course work journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics.md"
+                "file": "course work journal.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c85542565509a29",
+  "active": "74320e2fb0fffe6f",
   "lastOpenFiles": [
-    "Electronics.pdf",
     "Electronics.md",
+    "course work journal.md",
     "CourseWork/TO DO.md",
+    "Electronics.pdf",
     "CourseWork/Goose Game.md",
     "CourseWork/Analysis.md",
     "ML Languages.md",

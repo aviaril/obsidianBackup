@@ -21,4 +21,4 @@ The three buttons connected to bits 4-6 of port A are debounced through the soft
 
 ---
 # Limitations 
-The displays cannot be photographed with a standard shutter speed and most video will show the displays cycling meaning that it is hard to read the output from a video. 
+The displays cannot be photographed with a standard shutter speed and most video will show the displays cycling meaning that it is hard to read the output from a video.    
