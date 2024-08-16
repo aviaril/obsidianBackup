@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CourseWork/TO DO.md",
+                "file": "Electronics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CourseWork/TO DO.md",
+                "file": "Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CourseWork/TO DO.md",
+                "file": "Electronics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CourseWork/TO DO.md"
+                "file": "Electronics.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "74320e2fb0fffe6f",
   "lastOpenFiles": [
-    "CourseWork/Goose Game.md",
     "CourseWork/course work journal.md",
-    "C sharp cheat sheet.md",
     "CourseWork/TO DO.md",
+    "CourseWork/Goose Game.md",
+    "C sharp cheat sheet.md",
     "Electronics.md",
     "Binary.md",
     "ML Languages.md",
