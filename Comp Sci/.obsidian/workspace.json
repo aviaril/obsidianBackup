@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course work journal.md",
+                "file": "CourseWork/TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course work journal.md",
+                "file": "CourseWork/TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course work journal.md",
+                "file": "CourseWork/TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course work journal.md"
+                "file": "CourseWork/TO DO.md"
               }
             }
           }
@@ -148,18 +148,19 @@
   },
   "active": "74320e2fb0fffe6f",
   "lastOpenFiles": [
-    "Electronics.md",
-    "course work journal.md",
-    "CourseWork/TO DO.md",
-    "Electronics.pdf",
     "CourseWork/Goose Game.md",
-    "CourseWork/Analysis.md",
+    "CourseWork/course work journal.md",
+    "C sharp cheat sheet.md",
+    "CourseWork/TO DO.md",
+    "Electronics.md",
+    "Binary.md",
     "ML Languages.md",
+    "greenfoot games.md",
+    "Electronics.pdf",
+    "CourseWork/Analysis.md",
     "CourseWork",
     "Exam Feedback.md",
     "Software/binary practice questions.md",
-    "Binary.md",
-    "greenfoot games.md",
     "Software/Operating Systems.md",
     "Software/Object Orientated and JAVA.md",
     "Software/Databases.md",

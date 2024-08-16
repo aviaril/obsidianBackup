@@ -8,7 +8,7 @@ Alarm clocks can help in these aspects by acting as notifications that it is a c
 ## User Guide
 
 After powering the system the user will be prompted to input the time they would like the alarm to go off, they can do this by using the leftmost button (Button6) select a digit, the currently selected digit is indicated by the decimal point. The user can then increment the selected digits as necessary using the middle button (Button5), after the user has set their desired alarm they can confirm their input by pressing the rightmost button (Button4), this will move them onto the next portion of the program setting the current time. The user will set the current time by using the same controls mentioned above, after the current time is set the user can 
-##   
+
 ---
 The clock runs off a +5-0Volt power supply counts in one second increments on four multiplexed seven-segment displays that display one of 20 digits, the first ten are human readable numbers 0-9 and the last ten are the same digits only with the decimal point of the displays active, the decimal point is used to show which display is currently selected when the circuit is taking an input form the user.
 
@@ -21,4 +21,5 @@ The three buttons connected to bits 4-6 of port A are debounced through the soft
 
 ---
 # Limitations 
-The displays cannot be photographed with a standard shutter speed and most video will show the displays cycling meaning that it is hard to read the output from a video.    
+The displays cannot be photographed with a standard shutter speed and most video will show the displays cycling meaning that it is hard to read the output from a video.
+The user also cannot set multiple alarms at the same time, a common feature that potentially allows for a better user experience. 
