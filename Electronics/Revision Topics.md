@@ -1,0 +1,3 @@
+- [ ] Boolean Simplification 
+- [ ] Amplifiers
+- [ ] Rectifiers 

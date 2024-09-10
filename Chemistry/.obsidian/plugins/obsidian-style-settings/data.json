@@ -1,0 +1,23 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-materialocean",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-translucency-background": "encore-bg-frosty",
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@encore-custom-bold@@dark": "#048582",
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": true,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@select": "none",
+  "ITS@@hr-icon-symbol": "\"\"",
+  "ITS@@list-neon": true,
+  "ITS@@list-bullet-color": true,
+  "ITS@@list-default-bullet": true,
+  "ITS@@list-lines-color": true
+}

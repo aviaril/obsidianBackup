@@ -1,0 +1,3 @@
+- First synthesised by Wallace Hume Carothers o feb 28 1935 
+- originally used as a substitute of silk 
+- 

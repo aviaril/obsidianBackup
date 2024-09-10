@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiFileX",
+      "TiFileText",
+      "BoBxsCarBattery",
+      "TiAtom2",
+      "BoBxsChevronLeftCircle"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Microcontrollers.md": "BoBxsMicrochip",
+  "Timing Circuits.md": "TiClock",
+  "Basic Logic.md": "TiLogicAnd",
+  "Main Power Supplies.md": "BoBxsCarBattery",
+  "Sequential Logic.md": "BoBxTransferAlt",
+  "Operational Amplifiers.md": "BoBxsChevronLeftCircle",
+  "Semiconductor Components.md": "TiAtom2",
+  "Equation Sheet.md": "TiFileText",
+  "PIC First Year Project.md": "TiCpu",
+  "Revision Topics.md": {
+    "iconName": "TiFileX",
+    "iconColor": "#910808"
+  }
+}

@@ -1,0 +1,2 @@
+<span style="color:rgb(21, 28, 60)">[[Elements of Life]]</span>
+A nuclear symbol is the chemical symbol with the Mass and Atomic numbers to the left of it, with the mass number on the top and the atomic number on the bottom.
