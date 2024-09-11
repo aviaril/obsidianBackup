@@ -18,7 +18,7 @@
 
 
 ### Equations 
-$C = :TiLambda:F $
+C = :TiLambda:F
 $E = hf$
 
 ##### Q=Mc∆T
@@ -28,3 +28,9 @@ c = Specific heat capacity
 ∆T = change in temperature
 
 hess' law 
+#### pV = nRT
+Where p = pressure (Pa)
+V = volume ($M^3$)
+n = number of moles 
+R = the gas constant (8.314)
+T = temperature (K, Celsius to Kelvin = + 273)
