@@ -6,78 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "file:Menu",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "section:(Basic Logic)",
-      "color": {
-        "a": 1,
-        "rgb": 16598084
-      }
-    },
-    {
-      "query": "section:(Timing Circuits)",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "section:(Sequential Logic)",
-      "color": {
-        "a": 1,
-        "rgb": 15767889
-      }
-    },
-    {
-      "query": "section:(Main Power Supplies)",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "file:Equation Sheet",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "section:(PIC First Year Project)",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "section:(Semiconductor Components)",
-      "color": {
-        "a": 1,
-        "rgb": 11141375
-      }
-    },
-    {
-      "query": "section:(Microcontrollers)",
-      "color": {
-        "a": 1,
-        "rgb": 15597823
-      }
-    },
-    {
-      "query": "section:(Operational Amplifiers)",
-      "color": {
-        "a": 1,
-        "rgb": 16762880
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.6,
@@ -88,6 +17,6 @@
   "repelStrength": 10.5580285602365,
   "linkStrength": 0.874327837327731,
   "linkDistance": 216,
-  "scale": 1.9315184331335586,
-  "close": false
+  "scale": 1.3777047039571173,
+  "close": true
 }

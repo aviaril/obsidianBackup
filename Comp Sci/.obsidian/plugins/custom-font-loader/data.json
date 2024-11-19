@@ -1,6 +1,7 @@
 {
+  "font_folder": ".obsidian/fonts/",
   "font": "JetBrainsMono-SemiBold.woff2",
-  "force_mode": false,
+  "force_mode": true,
   "custom_css_mode": false,
   "custom_css": ""
 }

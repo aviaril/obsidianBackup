@@ -16,8 +16,13 @@
   "ITS@@its-d": false,
   "ITS@@select": "none",
   "ITS@@hr-icon-symbol": "\"\"",
-  "ITS@@list-neon": true,
+  "ITS@@list-neon": false,
   "ITS@@list-bullet-color": true,
   "ITS@@list-default-bullet": true,
-  "ITS@@list-lines-color": true
+  "ITS@@list-lines-color": true,
+  "ITS@@hr-no-icon": true,
+  "fusion@@theme-variant": "fusion-default",
+  "fusion@@high-contrast-text": true,
+  "fusion@@no-note-padding": false,
+  "fusion@@show-view-header-title": false
 }

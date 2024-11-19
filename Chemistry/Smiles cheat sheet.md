@@ -8,7 +8,7 @@ P phosphine (PH3)
 S hydrogen sulphide (H2S)
 Cl hydrogen chloride (HCl)
 Normally hydrogen is not shown.
-Elements must be shown in brackets: [Au] elemental gold
+Elements must be shown in square brackets: [Au] elemental gold
 
 #### Representing Bonds####
 Single, double, triple, and aromatic bonds are represented by the following symbols:

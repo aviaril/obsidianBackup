@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiNotes",
       "BoBxsRename",
       "TiPencilExclamation",
       "BoBxAtom",
-      "TiMedicineSyrup",
-      "BoBxsHappyBeaming"
+      "TiMedicineSyrup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,9 +41,5 @@
   "Ozone": "TiAirBalloon",
   "Elements of Life": "BoBxAtom",
   "What's In a Medicine": "TiMedicineSyrup",
-  "revision topics.md": {
-    "iconName": "TiPencilExclamation",
-    "iconColor": "#6e0707"
-  },
   "Nomenclature.md": "BoBxsRename"
 }

@@ -1,0 +1,10 @@
+- [x] less detail in intro 
+- [x] move computational methods to after the research 
+- [x] more screenshots in research, should show the points you are tying to make 
+	- [x] AER
+	- [x] Portal
+	- [x] Subnautica
+- [x] justify limitations
+	- [x] only on pc
+	- [x] poor graphics
+	- [x] only a prototype

@@ -1,3 +1,3 @@
 After planning the first thing I have done to make my game is to make the ground movement work to o this I have added a plane to act as a floor before the final level geometry is created, I am also using a cube to stand in for the player this is because the players collision will be calculated by an invisible cube around the player rather than the player's model itself, this help to prevent the player form getting stuck and will stop parts of the players model from clipping though solid surfaces. 
 The next thing I did was ad camera controls, to do this I locked the camera a set distance from the player and forced the camera to point at the player ensuring the player will always be in frame. Next I gave the player the ability to move the camera along a set ring as dictated by the fixed target and distance from the target.  
-followed 
+followed. 

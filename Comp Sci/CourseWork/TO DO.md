@@ -1,10 +1,11 @@
-- [ ] Find what I need to learn 
+- [x] Find what I need to learn 
 - [ ] Find tutorials about the subject, record what tutorials I complete
 	- [ ] Camera
 	- [ ] Movement
 		- https://www.google.com/search?client=firefox-b-d&q=unity+movement#fpstate=ive&vld=cid:f7a7c71c,vid:UCwwn2q4Vys,st:0
 	- [ ] Collision
 	- [ ] Loading zones
+		- [ ] Way to implement doors https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html
 	- [ ] Tick systems
 	- [ ] Flight mechanics
 - [ ] Get the player moving and collisions working
@@ -27,13 +28,16 @@
 - [ ] refine concepts for islands 
 - [ ] build puzzles 
 	- [ ] combi lock
-	- [ ] ...
-	- [ ] 
+	- [ ] carry rocks over gap to weigh down scale 
+	- [ ] time trial?
 - [ ] Add simple NPCs 
-- [ ] refine story 
-	- [ ] How was the victim killed 
-	- [ ] Decide motive for main character 
-	- [ ] Decide who the killer is, is it player if so how do I surprise the player with it 
 - [ ] Animate the player
 	- [ ] Skeletal?
 - [ ] improve map
+
+- [ ] Go through diagrams presentation 
+- [ ] Read Design guidance
+- [ ] Plan prototypes
+- [ ] Read testing 
+- [ ] Watch video links
+- [ ] Read coursework plan for implementation 

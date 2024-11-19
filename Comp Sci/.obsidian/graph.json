@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 1199771
       }
+    },
+    {
+      "query": "path:CourseWork  ",
+      "color": {
+        "a": 1,
+        "rgb": 615426
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 12.6548199850433,
   "linkStrength": 0.808233325024038,
   "linkDistance": 82,
-  "scale": 0.9727718270812916,
+  "scale": 0.9960542076455209,
   "close": true
 }

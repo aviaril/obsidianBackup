@@ -1,8 +1,10 @@
 [
-  "chem",
-  "custom-font-loader",
   "obsidian-icon-folder",
-  "obsidian-underline",
+  "custom-font-loader",
+  "table-editor-obsidian",
+  "supsub",
+  "obsidian-style-settings",
+  "sheets",
   "colored-text",
-  "obsidian-style-settings"
+  "obsidian-pandoc"
 ]

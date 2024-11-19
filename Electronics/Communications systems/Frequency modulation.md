@@ -1,0 +1,1 @@
+Frequency modulation (FM) is a method of encoding information in a radio wave. It is done by changing the instantaneous frequency of a carrier wave in relation to 

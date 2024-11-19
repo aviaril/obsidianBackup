@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2560"
+   height="1440"
+   viewBox="0 0 2560 1440"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Pause menu mockup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.51872912"
+     inkscape:cx="1180.7704"
+     inkscape:cy="1040.0419"
+     inkscape:window-width="1728"
+     inkscape:window-height="1055"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="485.28222"
+       y="340.78807"
+       width="700.66028"
+       height="886.04899"
+       id="rect8" />
+    <rect
+       x="485.28222"
+       y="253.54633"
+       width="763.36528"
+       height="986.92226"
+       id="rect7" />
+    <rect
+       x="504.36635"
+       y="253.54633"
+       width="755.18637"
+       height="1011.459"
+       id="rect6" />
+    <rect
+       x="496.18743"
+       y="272.63046"
+       width="744.28115"
+       height="997.82748"
+       id="rect5" />
+    <rect
+       x="496.18743"
+       y="258.99894"
+       width="738.82854"
+       height="992.37487"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#552200;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke"
+       id="rect1"
+       width="1900"
+       height="1200"
+       x="324.43024"
+       y="143.3866"
+       rx="150"
+       ry="150" />
+    <rect
+       style="fill:#ffe6d5;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke"
+       id="rect2"
+       width="1750"
+       height="1100"
+       x="399.43024"
+       y="199.48883"
+       rx="150"
+       ry="150" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:12.2474;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:12.2474, 12.2474;stroke-opacity:0.763006;paint-order:fill markers stroke"
+       id="rect3"
+       width="3"
+       height="1100"
+       x="1272.9302"
+       y="199.48883" />
+    <text
+       xml:space="preserve"
+       id="text3"
+       style="font-size:133.333px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';white-space:pre;shape-inside:url(#rect4);display:inline;fill:#1a1a1a;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       id="text4"
+       style="font-size:133.333px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';white-space:pre;shape-inside:url(#rect5);display:inline;fill:#1a1a1a;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#1a1a1a;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke"><tspan
+         x="485.28125"
+         y="303.69048"
+         id="tspan1">List of completed puzzle steps </tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#1a1a1a;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke"><tspan
+         x="485.28125"
+         y="378.39484"
+         id="tspan2">- Thing C
+</tspan><tspan
+         x="485.28125"
+         y="428.39484"
+         id="tspan3">-Thing B
+</tspan><tspan
+         x="485.28125"
+         y="478.39484"
+         id="tspan4">- Thing A</tspan></text>
+    <rect
+       style="fill:#a0892c;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke;opacity:0.22"
+       id="rect9"
+       width="761.47644"
+       height="1025.5835"
+       x="1305.1128"
+       y="233.26241" />
+    <ellipse
+       style="opacity:0.78;fill:#6c6753;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke"
+       id="path9"
+       cx="1534.5197"
+       cy="541.70856"
+       rx="67.472595"
+       ry="79.03933" />
+    <ellipse
+       style="opacity:0.56;fill:#225500;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke"
+       id="path10"
+       cx="1729.2262"
+       cy="842.44354"
+       rx="140.72856"
+       ry="144.58414" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#1a1a1a;stroke-width:10;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:10, 10;stroke-opacity:0.763006;paint-order:fill markers stroke"
+       x="1638.6201"
+       y="273.74597"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="1638.6201"
+         y="273.74597">map</tspan></text>
+  </g>
+</svg>

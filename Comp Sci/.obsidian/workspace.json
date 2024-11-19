@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9ea1b345370ee5e9",
+        "id": "e7b64ef011d60122",
         "type": "tabs",
         "children": [
           {
-            "id": "74320e2fb0fffe6f",
+            "id": "dada5db18ef3d3d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics.md",
+                "file": "CourseWork/Goose Chase.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Goose Chase"
+            }
+          },
+          {
+            "id": "7acaab1b9d7b518a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CourseWork/Prototypes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prototypes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics.md",
+                "file": "Analysis feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Analysis feedback"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics.md",
+                "file": "Analysis feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Analysis feedback"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics.md"
-              }
+                "file": "Analysis feedback.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Analysis feedback"
             }
           }
         ]
@@ -138,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,35 +178,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74320e2fb0fffe6f",
+  "active": "7acaab1b9d7b518a",
   "lastOpenFiles": [
-    "CourseWork/course work journal.md",
-    "CourseWork/TO DO.md",
-    "CourseWork/Goose Game.md",
-    "C sharp cheat sheet.md",
-    "Electronics.md",
-    "Binary.md",
-    "ML Languages.md",
-    "greenfoot games.md",
-    "Electronics.pdf",
+    "CourseWork/Design.md",
+    "Theory/Software/Data Structures.md",
     "CourseWork/Analysis.md",
+    "CourseWork/AM and FM.gif",
+    "CourseWork/course work journal.md",
+    "CourseWork/Electronics Write up final really this time.pdf",
+    "CourseWork/Building.md",
+    "CourseWork/Prototypes.md",
+    "CourseWork/Goose Chase.md",
+    "CourseWork/TO DO.md",
+    "Unity class diagrams.md",
+    "Electronics Write up final.pdf",
+    "Theory/Comp sci temp.md",
+    "CourseWork/Analysis.pdf",
+    "CourseWork/Photos",
+    "Analysis feedback.md",
+    "CourseWork/Photos/subnautica2.webp",
+    "CourseWork/Photos/portal2.jpg",
+    "CourseWork/Photos/AER3.jpg",
+    "CourseWork/Photos/AER2.webp",
+    "Object oriented program.md",
+    "CourseWork/Prototype one.md",
+    "CourseWork/Photos/aer.jpg",
+    "Communication.md",
+    "CourseWork/Analysis 1.pdf",
+    "CourseWork/Analysis(outdated).md",
+    "CourseWork/Photos/HITMAN Menu.jpg",
+    "Untitled.canvas",
+    "Theory/Software/Untitled.md",
+    "Theory/Software/Operating Systems.md",
+    "Theory/Software/binary practice questions.md",
+    "Theory/Software/SQL.md",
+    "Theory/Software/Computational thinking.md",
+    "Theory/Software/Object Orientated and JAVA.md",
+    "Theory/Software/Databases.md",
+    "2024-10-10.md",
+    "Success Criteria.md",
+    "greenfoot games.md",
+    "CourseWork/Photos/EVE Pause menu.png",
+    "Theory",
+    "CourseWork/Photos/subnautica.jpg",
+    "CourseWork/Photos/portal.jpg",
+    "Electronics.pdf",
     "CourseWork",
-    "Exam Feedback.md",
-    "Software/binary practice questions.md",
-    "Software/Operating Systems.md",
-    "Software/Object Orientated and JAVA.md",
-    "Software/Databases.md",
-    "Hardware/Architecture.md",
-    "Welcome.md",
-    "Software.md",
-    "Hardware",
-    "Hardware.md",
-    "Software",
-    "database answers.md",
-    "Course Work Game.md",
-    "Database question answers.md",
-    "sql answers.md",
-    "Software/SQL.md",
-    "SQL Exercises.md"
+    "Theory/Hardware",
+    "Theory/Software"
   ]
 }

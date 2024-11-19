@@ -1,6 +1,6 @@
 {
   "font": "JetBrainsMono-SemiBold.woff2",
-  "force_mode": true,
+  "force_mode": false,
   "custom_css_mode": false,
   "custom_css": ""
 }

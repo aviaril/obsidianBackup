@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 5,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFeather",
       "TiClipboardList",
       "TiFeather",
       "BoBxChip",
-      "TiUserScreen",
-      "TiBrandPaypal"
+      "TiUserScreen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,10 +30,21 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
-  "Software": "TiUserScreen",
-  "Hardware": "BoBxChip",
-  "CourseWork/Goose Game.md": "TiFeather",
-  "CourseWork/TO DO.md": "TiClipboardList"
+  "CourseWork/TO DO.md": "TiClipboardList",
+  "CourseWork": {
+    "iconName": "LiFeather",
+    "iconColor": "#1496c2"
+  },
+  "Theory/Software": {
+    "iconName": "TiUserScreen",
+    "iconColor": "#0e9bd8"
+  },
+  "Theory/Hardware": {
+    "iconName": "BoBxChip",
+    "iconColor": "#18b4c9"
+  },
+  "CourseWork/Goose Chase.md": "TiFeather"
 }
