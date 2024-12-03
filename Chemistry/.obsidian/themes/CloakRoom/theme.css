@@ -1,0 +1,17 @@
+/* blue color pallette 080e21-001f54-034078-1282a2-fefcfb */
+h1{
+    font-family: Vollkorn-Medium, serif !important;
+}
+
+.theme-dark{
+    --background-primary: #080e21;
+    --background-secondary: #042c52;
+}
+
+@font-face{
+    font-family: 'Vollkorn Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Vollkorn Medium'),
+     url(Vollkorn-Medium.ttf) format('ttf');
+}

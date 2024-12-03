@@ -1,6 +1,6 @@
 {
-  "font": "JetBrainsMono-SemiBold.woff2",
+  "font": "Vollkorn-Medium.ttf",
   "force_mode": false,
   "custom_css_mode": false,
-  "custom_css": ""
+  "custom_css": "\n.JetBrainsMono-SemiBold * {\n\t\tfont-family: JetBrainsMono-SemiBold !important;\n\t\t}"
 }

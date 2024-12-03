@@ -34,7 +34,7 @@ In alkali hydrolysis the peptide bonds are broken using a strong base the produc
 
 #### Glycine
 ```smiles
-C(C(=O)O)N
+C(C(=O)O)N 
 ```
 - Inhibitory Neurotransmitter in the central nervous system 
 - Encoded by all codons beginning with GG

@@ -3,7 +3,7 @@ Cu$^{2+}$ - add sodium hydroxide - blue ppt
 Fe$^{2+}$ - add sodium hydroxide - Green ppt
 Fe$^{3+}$ - add sodium hydroxide - Orange/brown ppt
 Pb$^{2+}$ - add potassium iodide - bright yellow ppt
-Cl$^-$ - $AgNO_3$ - White ppt
+Cl$^-$ - AgNO$_3$ - White ppt
 SO$_4^{2-}$ - BaCl$_2$ 
 
 

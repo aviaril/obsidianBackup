@@ -1,0 +1,1 @@
+In order to get the camera to move around the player I used a 

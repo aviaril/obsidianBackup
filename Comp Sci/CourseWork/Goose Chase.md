@@ -2,7 +2,7 @@
 
 #### Keep in Mind
 - #### <span style="color:rgb(0, 176, 240)">THE PLOT DOES NOT MATTER</span>
-- name may be changed to a goose's chase as Goosechase is a company 
+- name may be changed as Goosechase is a company 
 #### Computational Thinking
 ##### Abstraction
 - Done to save resources

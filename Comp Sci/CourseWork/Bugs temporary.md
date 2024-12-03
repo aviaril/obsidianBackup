@@ -1,0 +1,2 @@
+#### Camera zoom not working
+The input axis is not taking an input but it is changing the value to 0, this stops the camera from zooming at all. - fixed by using Input.mouseScrollDelta instead of Input.GetAxis
