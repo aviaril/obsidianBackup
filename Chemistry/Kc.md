@@ -10,6 +10,7 @@
 
 
 square brackets denote concentration
+### Equation 
 
 
 $$
@@ -18,8 +19,5 @@ $$
 so 
 $$ kc = \frac{[C]^c * [D]^d}{[A]^a * [B]^b} $$
 
-
-when writing equilibrium equations:
-2$O_2$ --> \[${O_2}^2$\]
-# this is a title
- this is text in an h1 this is still text in an h1
+K$_C$  will only be changed by the temperature 
+K$_C$ Should not change from change in concentration to the entire equation, if you change the concentration of one. 
