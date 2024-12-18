@@ -5,3 +5,6 @@ so far - no collision or compiler errors.
 
 Camera View angles 
 should be limited to 8 below player and 16 above, this means the camera will not break as the angle will never get too high 
+
+## Seizures
+after trying to make the player rotate with the camera 

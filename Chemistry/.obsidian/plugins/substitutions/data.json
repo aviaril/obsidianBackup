@@ -5,6 +5,11 @@
     "initialized": true,
     "records": [
       {
+        "from": "delta#",
+        "to": "Δ",
+        "enabled": true
+      },
+      {
         "from": "No#",
         "to": "№",
         "enabled": true

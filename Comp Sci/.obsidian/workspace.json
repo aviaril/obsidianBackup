@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99570e6d22b9861c",
+  "active": "04b329dad034e3e3",
   "lastOpenFiles": [
     "Pathfinding Algorithms.md",
     "Pathfinding practice.md",

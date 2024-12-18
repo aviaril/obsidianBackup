@@ -7,6 +7,6 @@
   "colored-text",
   "obsidian-style-settings",
   "substitutions",
-  "custom-font-loader",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-tikzjax"
 ]
