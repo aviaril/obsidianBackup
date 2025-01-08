@@ -5,7 +5,7 @@
 The simplest type of database is a flat tile consisting of information on a single entity.
 Row = Record
 Column = Field
-#### Problems With Flat Tile####
+#### Problems With Flat Tile
 - Data Repetition wastes space and means more potential for data entry errors
 - Data can be inconsistent if stored more than once
 - The same ID number can be stored in multiple rows so you cannot retrieve a unique record with the ID 
@@ -19,7 +19,7 @@ Column = Field
 Tables can be broken into multiple smaller tables and linked using IDs, this reduces repetition and makes the database more efficient.
 secondary keys are not primary keys but instead are used for indexing and searching.
 Composite/compound key - using more than one field as a primary key. 
-#### Anomalies ####
+#### Anomalies
 - *Deletion anomaly* - Where data is stored multiple times one entry can be deleted but the other may not be resulting in data that should have been deleted remaining in the database
 - *Addition anomaly* - Where data is stored multiple times one 
 

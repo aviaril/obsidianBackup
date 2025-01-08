@@ -17,7 +17,9 @@ body.theme-light{
     --list-marker-color-collapsed: #D1603D;
     --background-secondary: #042c52;
 }
-
+mjx-math {
+    font-size: 120% !important;
+  }
 @font-face { 
     font-family: "Parkinsans Light";
     font-weight: 300;
