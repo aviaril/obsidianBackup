@@ -5,6 +5,16 @@
     "initialized": true,
     "records": [
       {
+        "from": "Delta#",
+        "to": "Δ",
+        "enabled": true
+      },
+      {
+        "from": "Ohm#",
+        "to": "Ω",
+        "enabled": true
+      },
+      {
         "from": "No#",
         "to": "№",
         "enabled": true

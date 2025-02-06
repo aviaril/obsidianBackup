@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -154,7 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursework 2/Analock.md"
+                "file": "Coursework 2/Analock.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Analock"
@@ -185,11 +189,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +209,8 @@
   },
   "active": "c4d061785da8a91d",
   "lastOpenFiles": [
+    "Pasted image 20250117120309.png",
+    "Coursework 2/Photos/State DIagram.png",
     "Coursework 2/Solenoid Calculations.md",
     "Coursework 2/Analock.md",
     "Coursework 2/Magnets.md",
@@ -242,7 +249,6 @@
     "Alarm Clock folder/Pasted image 20241004113321.png",
     "Alarm Clock folder/Pasted image 20241004112212.png",
     "Alarm Clock folder/Pasted image 20241004112113.png",
-    "Alarm Clock folder/Pasted image 20241004112050.png",
     "Main Power Supplies/Main Power Supplies.md",
     "Operational Amplifiers.md",
     "Untitled.canvas"

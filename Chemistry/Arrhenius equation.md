@@ -29,7 +29,7 @@ As a general rule every 10 degrees increase in temp doubles the rate.
 
 --- 
 $$
- \ln (K) = \frac{E_{a}}{R} \times \frac{1}{T} 
+ \ln (K) = \frac{E_{a}}{R} \times \frac{1}{T} \times
 $$
 
 ![[Pasted image 20250108163453.png]]

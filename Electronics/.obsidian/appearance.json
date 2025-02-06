@@ -2,5 +2,8 @@
   "accentColor": "#177eee",
   "cssTheme": "CloakRoom",
   "theme": "obsidian",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "centre"
+  ]
 }

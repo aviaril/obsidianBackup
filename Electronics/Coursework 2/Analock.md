@@ -60,7 +60,7 @@ While building the first dial subsystem I placed the collector resistor of the s
 missing wire from setting pot to comparator cii 
 
 ### Final layout
-(highlighted image showing where each component is)
+(highlighted image showing where each subsystem is)
 ## Subsystem 2 - Comparison Logic  
 ### Design 
 This subsystem will  I also need to trigger an alarm/alert if the code is wrong *If I have enough time I will add a system allowing for multiple tries*. This will be represented by an LED, in a real world use of the system this would be replaced with either an alarm or another system to send a notification to someone inside the building. 
@@ -121,7 +121,12 @@ After making *Alarm Reset* active low ([[#Error 3 - alarm reset]]) SR latch now 
 ##### test 3 
 after swapping the output that set the SR latch ([[#Error 4 - wrong output]]) the SR latch works as intended
  - SR latch functions correctly no further testing needed
-
+ 
+#### LED
+test № 1
+does not light up when the base resistor is powered. even if powered directly from the rail. 
+test №2 
+Led lights up brightly when playing 
 ### Building Errors 
 ###### Error 1 - missing resistor 
 Forgot to add pull down resistor to the tactile switch
@@ -135,19 +140,30 @@ Upon further inspection I realised I had not connected the left side of the rail
 Q$_1$ was fed into the $\overline{S}$ input of the SR latch instead of Q$_2$ this meant the alarm would go off whenever the combination was correct 
 ## Subsystem 3 - Counting logic
 ### Design
-One problem with the alarm system above is that the alarm will go off if there is a single wrong combination. In the real world this would cause a very high number of false alarms as the users accidentally input the wrong combination. To counter this I will add a system allowing the user to have three tries to open the lock before the alarm is triggered. To do this I will use a synchronised counter with a logic system to give a logic high output when the counter is in its third state, this will then be ANDED with Q$_2$ from the comparison logic and the output of this AND gate used to trigger the alarm. 
- 
- I started design by finding the number of bits I needed, this is just the amount of bits needed to display the number in binary. The largest number I needed to count to is three, 
-3$_{\text{denary}}$ = 11$_{\text{binary}}$. 11 takes up two bits so I only need a two bit counter, however a two bit counter has four states   
-The next thing I did was to create a truth table to derive a logic system from:
+One problem with the alarm system above is that the alarm will go off if there is a single wrong combination. In the real world this would cause a very high number of false alarms as the users accidentally input the wrong combination. To counter this I will add a system allowing the user to have three tries to open the lock before the alarm is triggered. 
+To do this I have decided to use a synchronised counter with the output connected to the S pin of the S-R latch that controls the alarm. The clock pin of the counter will be connected to the *Confirmation Button* so that the counter is incremented towards the alarm, after three incorrect inputs the alarm will sound. 
 
-| B   | A   |     | Q   |
-| --- | --- | --- | --- |
-| 0   | 0   |     | 0   |
-| 0   | 1   |     | 0   |
-| 1   | 0   |     | 0   |
-| 1   | 1   |     | 1   |
+To stop the counter from waking up in S$_3$ and immediately sounding the alarm I will implement a power on reset system, this ties the reset pin of the counter to an RC monostable circuit that starts high and quickly changes to low. This resets the counter as soon as the circuit has power and then stops resetting it so that the counter can be used. 
 
+I starter by considering how many states I would need and thus how many counter bits would be required, I determined that I would need four states $4_{denary}=11_{binary}$ ; from this I can tell that I need a two bit counter as 11 takes up two bits. 
+I then determined the state diagram:
+![[State DIagram.png|centre|500]]
+As shown there are no illegal states to worry about so there is no logic to change/remove those. In addition to this the logic to determine when to trigger the alarm will be extremely simple being only a single and gate. This will trigger the alarm or the rising edge of the fourth state S$_3$.
+I then designed the power on reset system. This will be an RC circuit with a not gate on the output to convert it into an inverted digital output. The capacitor will start charged and discharge through the resistor changing the state of the not gate to output a logic high signal that will be used to reset the   To do this I considered the length of pulse I would need to reset the counter. I decided that the monostable should have to change the output low  in 0.1 seconds I then needed to find the Resistor and Capacitor values that would give me this. After looking at other designs for power on reset systems I have found that a 1uF capacitor and a 100KΩ resistor. 
+
+
+$$
+t = 0.69RC \therefore t = 0.69  \times 100*10^3 \times 1 * 10^{-6} = 0.069
+$$
+$$
+0.060 < 0.1 \text{ So the values are suitable}
+$$
+I then added a drain resistor to the circuit to drain the capacitor after turning the circuit off. This ensures that the system will behave the same 
+### I have concluded that i will use a ripple counter
+
+
+#### Parts List
+- 4013 D flip flop chip 
 ## Subsystem 4 - Solenoid 
 This goal of this system is to move the bolt of the lock out of the locked position to move the bolt of the door to unlock it. To do this I will use a solenoid, a coil of wire surrounding a ferrous core that is moved by the magnetic field formed when a current moves through the coil. Technically the term solenoid refer to the coil of wire itself however for this report I will be referring to the entire assembly as the solenoid. The solenoid will be driven by a transistor as the current required will be far too high for it do be driven directly from the 555IC it will be controlled by. This 555IC will be configured as a monostable so that the bolt will be held open for a set amount of time before being closed again. 
 For my purposes a Pull solenoid is needed, in this type of solenoid the armature pulled in by the magnetic flux formed when it is active and them 
@@ -173,3 +189,4 @@ $$
 $$
  1.1 \times 47 \cdot10^3 \times 100\cdot 10^{-6} = 5.17s
 $$
+

@@ -12,20 +12,14 @@ body.theme-dark{
 }
 
 body.theme-light{
-    --background-primary: #501111;
+    --background-primary: #C6C6C9;
     --list-marker-color: #D1603D;
     --list-marker-color-collapsed: #D1603D;
-    --background-secondary: #520404;
-    color:antiquewhite;
+    --background-secondary: #042c52;
 }
-.cm-contentContainer{
-    font-family: 'Parkinsans Light', serif;
-    font-size: 11pt;
-}
-.view-content{
-    font-family: 'Parkinsans Light', serif;
-    font-family: 11pt;
-}
+mjx-math {
+    font-size: 120% !important;
+  }
 @font-face { 
     font-family: "Parkinsans Light";
     font-weight: 300;

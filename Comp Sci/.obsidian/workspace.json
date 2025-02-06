@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "TCP IP Stack"
             }
+          },
+          {
+            "id": "bc967de15ea75482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laws.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laws"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +202,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0605023a399a912",
+  "active": "bc967de15ea75482",
   "lastOpenFiles": [
-    "Theory/Software/Databases.md",
     "Theory/Software/TCP IP Stack.md",
+    "Laws.md",
+    "Theory/Software/Databases.md",
     "Theory/Software/Object Orientated and JAVA.md",
     "CourseWork/Computational thinking.md",
     "Theory/Software/binary practice questions.md",
@@ -220,7 +235,6 @@
     "CourseWork/AM and FM.gif",
     "CourseWork/course work journal.md",
     "CourseWork/Electronics Write up final really this time.pdf",
-    "CourseWork/Building.md",
     "CourseWork/Analysis.pdf",
     "CourseWork/Photos",
     "CourseWork/Photos/subnautica2.webp",

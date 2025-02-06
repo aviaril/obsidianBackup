@@ -21,3 +21,6 @@ Ammonia will act as a base because it accepts a hydrogen from water forming an H
 #### Ammonium 
 NH$_4^-$ 
 Tetrahedral with 109.5 degree bond angles as there are four atoms bonded to the Nitrogen.
+$$
+\text{this is what latex looks like} 
+$$

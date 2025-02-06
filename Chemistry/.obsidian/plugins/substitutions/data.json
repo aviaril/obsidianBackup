@@ -5,6 +5,26 @@
     "initialized": true,
     "records": [
       {
+        "from": "^+",
+        "to": "$^+$",
+        "enabled": true
+      },
+      {
+        "from": "^-",
+        "to": "$^-$",
+        "enabled": true
+      },
+      {
+        "from": "h+",
+        "to": "H$^+$",
+        "enabled": true
+      },
+      {
+        "from": "oh-",
+        "to": "OH$^-$",
+        "enabled": true
+      },
+      {
         "from": "delta#",
         "to": "Δ",
         "enabled": true
