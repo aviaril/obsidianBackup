@@ -143,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -189,12 +191,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,21 +210,30 @@
   },
   "active": "c4d061785da8a91d",
   "lastOpenFiles": [
-    "Pasted image 20250117120309.png",
-    "Coursework 2/Photos/State DIagram.png",
-    "Coursework 2/Solenoid Calculations.md",
+    "Alarm Clock folder/Electronics Write up.pdf",
+    "Alarm Clock folder/Electronics Write up.md",
+    "Coursework 2/Photos/blank curve.JPG",
     "Coursework 2/Analock.md",
+    "Coursework 2/Photos/Charge Time.png",
+    "Coursework 2/Photos/Voltage.png",
+    "Coursework 2/Photos/State DIagram.png",
+    "Coursework 2/Photos/Resistor error.png",
+    "Coursework 2/Photos/IMG_1659.png",
+    "Coursework 2/Photos/IMG_1656.png",
+    "Coursework 2/Photos/Discharge TIme.png",
+    "Coursework 2/Photos/charge time.JPG",
+    "Coursework 2/Photos/POR.jpg.JPG",
+    "Coursework 2/Solenoid Calculations.md",
+    "Coursework 2/Photos/~MG_1675.tmp",
+    "Coursework 2/Photos/IMG_1675.JPG.~tmp",
+    "Coursework 2/Photos/Scanned 2 Dec 2024 at 13_45_07.pdf",
     "Coursework 2/Magnets.md",
-    "Coursework 2/Photos/missingPulldownResistor.png",
     "Semiconductor Components.md",
     "Revision Topics.md",
     "Microcontrollers.md",
     "Definitions.md",
     "Communications systems/Noise and Distortion.md",
-    "Communications systems/AM and FM.gif",
     "data sheet.pdf",
-    "Coursework 2/Photos/Resistor error.png",
-    "Coursework 2/Photos/Scanned 2 Dec 2024 at 13_45_07.pdf",
     "Communications systems/Frequency modulation.md",
     "Communications systems/Amplitude modulation.md",
     "Communications systems/Analogue to Digital converters.md",
@@ -232,23 +242,13 @@
     "Timing Circuits.md",
     "Practice paper.md",
     "Alarm Clock folder/PIC Alarm Clock Testing.md",
-    "Alarm Clock folder/IMG_1388.png",
-    "Alarm Clock folder/Pasted image 20241004110133.png",
-    "Alarm Clock folder/Electronics Write up.pdf",
     "Equation Sheet.md",
     "Menu.md",
     "Communications systems",
     "Coursework 2/Photos/Resistor error.HEIC~~",
     "Coursework 2/Photos/Resistor error.HEIC~",
     "Coursework 2/Photos/Resistor error.HEIC",
-    "Coursework 2/Photos",
-    "Coursework 2",
-    "Alarm Clock folder/Pasted image 20241004110019.png",
     "Basic Logic.md",
-    "Alarm Clock folder/Electronics Write up.md",
-    "Alarm Clock folder/Pasted image 20241004113321.png",
-    "Alarm Clock folder/Pasted image 20241004112212.png",
-    "Alarm Clock folder/Pasted image 20241004112113.png",
     "Main Power Supplies/Main Power Supplies.md",
     "Operational Amplifiers.md",
     "Untitled.canvas"

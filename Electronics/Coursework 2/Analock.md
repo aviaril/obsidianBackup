@@ -156,12 +156,16 @@ $$
 t = 0.69RC \therefore t = 0.69  \times 100*10^3 \times 1 * 10^{-6} = 0.069
 $$
 $$
-0.060 < 0.1 \text{ So the values are suitable}
+0.069 < 0.1 \text{So the values are suitable}
 $$
-I then added a drain resistor to the circuit to drain the capacitor after turning the circuit off. This ensures that the system will behave the same 
-### I have concluded that i will use a ripple counter
+I then added a 1MΩ drain resistor to the circuit to drain the capacitor after turning the circuit off. This ensures that the system will behave the same way every time. 
+I then tested the system to see if it charged and discharged in the correct time. To do this I probed the output of the RC circuit to with an oscilloscope to find the time it takes the circuit to charge to half of the supply voltage and to discharge to 
+![[Charge Time.jpg|centre|800]]
 
+### I have concluded that I will use a ripple counter
 
+i built the ripple counter and tested with the RC circuit. 
+This resulted in the alarm always being on even when the 
 #### Parts List
 - 4013 D flip flop chip 
 ## Subsystem 4 - Solenoid 
@@ -190,3 +194,17 @@ $$
  1.1 \times 47 \cdot10^3 \times 100\cdot 10^{-6} = 5.17s
 $$
 
+
+## Subsystem 5???
+<span style="color:rgb(255, 192, 0)">display the number of tries remaining</span>
+
+
+| B   | A   |     | X   | Y   | Z   |
+| --- | --- | --- | --- | --- | --- |
+| 0   | 0   |     | 0   | 0   | 0   |
+| 0   | 1   |     | 1   | 0   | 0   |
+| 1   | 0   |     | 1   | 1   | 0   |
+| 1   | 1   |     | 1   | 1   | 1   |
+X = B + A
+Y = B
+Z = B.A

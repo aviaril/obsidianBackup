@@ -42,6 +42,7 @@ pH = -\log_{10}[H^+]
 $$
 ---
 ### Strong Bases
+Kw = OH * H
 
 $$
 K_{w} = \frac{[H^+][OH^-]}{[H_{2}O]}
