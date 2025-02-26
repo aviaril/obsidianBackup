@@ -162,12 +162,16 @@ I then added a 1MΩ drain resistor to the circuit to drain the capacitor after t
 I then tested the system to see if it charged and discharged in the correct time. To do this I probed the output of the RC circuit to with an oscilloscope to find the time it takes the circuit to charge to half of the supply voltage and to discharge to 
 ![[Charge Time.jpg|centre|800]]
 
+I also measured the time it takes for the capacitor to discharge to the point 
 ### I have concluded that I will use a ripple counter
 
 i built the ripple counter and tested with the RC circuit. 
 This resulted in the alarm always being on even when the 
 #### Parts List
 - 4013 D flip flop chip 
+### Testing 
+#### counter connected to POR
+When powering the system on the counter should wake up in a random state and be immediately reset when the capacitor charges. This works as intended 
 ## Subsystem 4 - Solenoid 
 This goal of this system is to move the bolt of the lock out of the locked position to move the bolt of the door to unlock it. To do this I will use a solenoid, a coil of wire surrounding a ferrous core that is moved by the magnetic field formed when a current moves through the coil. Technically the term solenoid refer to the coil of wire itself however for this report I will be referring to the entire assembly as the solenoid. The solenoid will be driven by a transistor as the current required will be far too high for it do be driven directly from the 555IC it will be controlled by. This 555IC will be configured as a monostable so that the bolt will be held open for a set amount of time before being closed again. 
 For my purposes a Pull solenoid is needed, in this type of solenoid the armature pulled in by the magnetic flux formed when it is active and them 
@@ -194,7 +198,7 @@ $$
  1.1 \times 47 \cdot10^3 \times 100\cdot 10^{-6} = 5.17s
 $$
 
-
+This worked as intended however I then realised that i did not actually have access ot a solenoid, I made the decision to design the circuitry needed to run a solenoid but replace this with a 
 ## Subsystem 5???
 <span style="color:rgb(255, 192, 0)">display the number of tries remaining</span>
 

@@ -43,5 +43,6 @@
   "Main Power Supplies": "BoBxsCarBattery",
   "Coursework 2": "TiLockBolt",
   "Coursework 2/Photos": "BoBxCamera",
-  "Alarm Clock folder/PIC Alarm Clock Testing.md": "TiCpu"
+  "Alarm Clock folder/PIC Alarm Clock Testing.md": "TiCpu",
+  "Coursework 2/Analock.md": "TiFileText"
 }

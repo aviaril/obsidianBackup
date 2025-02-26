@@ -25,18 +25,15 @@
             "id": "c4d061785da8a91d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Coursework 2/Analock.md",
-                "mode": "source",
-                "source": false
+                "file": "Coursework 2/Photos/charge time.JPG"
               },
-              "icon": "lucide-file",
-              "title": "Analock"
+              "icon": "lucide-image",
+              "title": "charge time"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,21 +205,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4d061785da8a91d",
+  "active": "35ae47c7df81c9c9",
   "lastOpenFiles": [
+    "Coursework 2/Photos/Voltage.png",
+    "Coursework 2/Photos/State DIagram.png",
+    "Coursework 2/Photos/discharge time.JPG",
+    "Coursework 2/Photos/IMG_1656.png",
+    "Coursework 2/Photos/charge time.JPG",
+    "Coursework 2/Analock.md",
+    "Coursework 2/Photos/IMG_1659.png",
+    "Coursework 2/Photos/missingPulldownResistor.png",
+    "Coursework 2/Photos/~ischarge time.tmp",
+    "Coursework 2/Photos/discharge time.JPG.~tmp",
+    "Coursework 2/Photos/Discharge TIme.png",
     "Alarm Clock folder/Electronics Write up.pdf",
     "Alarm Clock folder/Electronics Write up.md",
     "Coursework 2/Photos/blank curve.JPG",
-    "Coursework 2/Analock.md",
     "Coursework 2/Photos/Charge Time.png",
-    "Coursework 2/Photos/Voltage.png",
-    "Coursework 2/Photos/State DIagram.png",
-    "Coursework 2/Photos/Resistor error.png",
-    "Coursework 2/Photos/IMG_1659.png",
-    "Coursework 2/Photos/IMG_1656.png",
-    "Coursework 2/Photos/Discharge TIme.png",
-    "Coursework 2/Photos/charge time.JPG",
-    "Coursework 2/Photos/POR.jpg.JPG",
     "Coursework 2/Solenoid Calculations.md",
     "Coursework 2/Photos/~MG_1675.tmp",
     "Coursework 2/Photos/IMG_1675.JPG.~tmp",
@@ -246,8 +245,6 @@
     "Menu.md",
     "Communications systems",
     "Coursework 2/Photos/Resistor error.HEIC~~",
-    "Coursework 2/Photos/Resistor error.HEIC~",
-    "Coursework 2/Photos/Resistor error.HEIC",
     "Basic Logic.md",
     "Main Power Supplies/Main Power Supplies.md",
     "Operational Amplifiers.md",
