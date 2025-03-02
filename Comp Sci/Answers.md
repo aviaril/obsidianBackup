@@ -17,3 +17,9 @@ iii. Dexter should choose Solution B as it will take far less memory compared to
 1. 
 	i. O(n)
 	ii. $\frac{100}{20}=5$ $4\times5= 20 \text{ms}$      
+# OOP
+## Exam question 
+i. bollard = new Obstacle(False, 7.8, 8) 2/2
+ii. The update procedure distance is an example of encapsulation. 1/2 <span style="color:rgb(0, 176, 80)">The attribute distance is private and can only be accessed by update.</span>
+iii. Encapsulation makes the code more robust as there is less chance of errors occurring from a class incorrectly changing a variable because the only methods that can access the variable are the getters and setters.  2/2
+## Balloon task

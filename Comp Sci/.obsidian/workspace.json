@@ -110,8 +110,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "big o notat",
-                "matchingCase": false,
+                "query": "quest",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,10 +234,11 @@
   },
   "active": "be3ab3a811261e79",
   "lastOpenFiles": [
+    "Object oriented programming.md",
+    "Answers.md",
     "Big O Notation.md",
     "Pasted image 20250225151744.png",
     "Space complexity.md",
-    "Answers.md",
     "factorial.md",
     "Laws.md",
     "Theory/Software/TCP IP Stack.md",

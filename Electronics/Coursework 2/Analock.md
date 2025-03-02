@@ -212,3 +212,38 @@ This worked as intended however I then realised that i did not actually have acc
 X = B + A
 Y = B
 Z = B.A
+
+## Final testing
+After finishing the build I tested the entire system to see if it met design specification 
+### Dials
+#### A
+High in a 0.7V zone of the potentiometer 
+B 
+High in a 0.7V zone of the potentiometer 
+C 
+High in a 0.7V zone of the potentiometer 
+### Comparison Logic 
+testing with probes gives this truth table 
+
+| D   | C   | B   | A   |     | Q2  | Q1  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   |     | 1   | 1   |
+| 0   | 0   | 0   | 1   |     | 1   | 1   |
+| 0   | 0   | 1   | 0   |     | 1   | 1   |
+| 0   | 0   | 1   | 1   |     | 1   | 1   |
+| 0   | 1   | 0   | 0   |     | 1   | 1   |
+| 0   | 1   | 0   | 1   |     | 1   | 1   |
+| 0   | 1   | 1   | 0   |     | 1   | 1   |
+| 0   | 1   | 1   | 1   |     | 1   | 1   |
+| 1   | 0   | 0   | 0   |     | 0   | 1   |
+| 1   | 0   | 0   | 1   |     | 0   | 1   |
+| 1   | 0   | 1   | 0   |     | 0   | 1   |
+| 1   | 0   | 1   | 1   |     | 0   | 1   |
+| 1   | 1   | 0   | 0   |     | 0   | 1   |
+| 1   | 1   | 0   | 1   |     | 0   | 1   |
+| 1   | 1   | 1   | 0   |     | 0   | 1   |
+| 1   | 1   | 1   | 1   |     | 1   | 0   |
+## Counter 
+The POW resets the counter and the alarm's SR latch every time the system is powered on. 
+The counter counts to 4 and then resets back to 0, The SR latch is flipped on when the counter is in the fourth state 11 and not reset with the counter 
+I found that you could desync the counter and the alarm by pressing the input button while the alarm was still on, to fix this i connected the reset button to a not gate and ORed it with the POW 
