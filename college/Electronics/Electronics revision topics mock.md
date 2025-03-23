@@ -1,0 +1,7 @@
+- [x] MOSFETs 
+	- [x] 
+- [ ] AM - FM
+	- [ ] AM
+	- [ ] FM
+- [ ] Filters 
+- [ ] Zener diodes

@@ -1,0 +1,2 @@
+1. .
+	1. RISC (Reduced Instruction Set Computer) architecture is made up of instructions that can be executed in a single clock cycle, whereas CISC (Complex Instruction set Computer) instructions take multiple clock cycles. This means that the CISC system will be easier to develop on but less efficient compared to RISC  

@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Electronics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path: Comp Sci",
+      "color": {
+        "a": 1,
+        "rgb": 770436
+      }
+    },
+    {
+      "query": "path:\"Comp Sci/Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.6,
@@ -17,6 +46,6 @@
   "repelStrength": 10.5580285602365,
   "linkStrength": 0.874327837327731,
   "linkDistance": 216,
-  "scale": 1.3777047039571173,
-  "close": true
+  "scale": 0.4999516356929038,
+  "close": false
 }

@@ -1,0 +1,2 @@
+class GardenItem 
+	private width 

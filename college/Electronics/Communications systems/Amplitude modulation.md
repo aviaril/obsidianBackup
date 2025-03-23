@@ -1,1 +1,0 @@
-Amplitude Modulation (AM) is a method used to encode information in a radio wave. The simplified version of it is that the amplitude of a carrier wave is changed in accordance to the amplitude of a 

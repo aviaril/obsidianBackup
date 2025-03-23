@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e825b1fd223f791b",
+        "id": "f9197f3a6e859703",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca6c08ce8f03f3b",
+            "id": "e85e4e8d615586cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Recursion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Recursion"
+            }
+          },
+          {
+            "id": "5e032ef33f634a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recursion exam questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "recursion exam questions"
+            }
+          },
+          {
+            "id": "5f6f0932fc1d5690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Coursework 2/Analock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analock"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,8 +82,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
-                "matchingCase": false,
+                "query": "datam",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -138,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Electronics/Coursework 2/Analock.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Analock"
             }
           },
           {
@@ -175,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,49 +223,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ca6c08ce8f03f3b",
+  "active": "5f6f0932fc1d5690",
   "lastOpenFiles": [
+    "Binary.md",
+    "recursion exam questions.md",
+    "Recursion.md",
+    "Iteration.md",
+    "Chemistry/Pag notes.md",
+    "Comp Sci/Dijkstra's Algorithm.md",
+    "Chemistry/Cells and Half Cells.md",
+    "Ink/Drawing/2025.3.19 - 15.09pm.drawing",
+    "Comp Sci/Datamining questions.md",
+    "Comp Sci/Transaction Processing.md",
+    "Comp Sci/Datamining.md",
+    "Comp Sci/Direct addressing.md",
+    "Electronics/Adders.md",
+    "Comp Sci/Theory/Software/Databases.md",
+    "Comp Sci/Comp Sci Revision topics Mock.md",
+    "Comp Sci/Comp Sci practice questions mock.md",
+    "Comp Sci/Basic Markdown.md",
+    "Chemistry/Colorimetry.md",
+    "Ink/Drawing/2025.3.12 - 14.22pm.drawing",
+    "Ink/Drawing/2025.3.12 - 14.20pm.drawing",
+    "Comp Sci/Processor practice questions.md",
+    "Comp Sci/A star.md",
+    "Comp Sci/Immediate Addressing.md",
+    "Comp Sci/Addressing memory.md",
+    "Comp Sci/Indirect Addressing.md",
+    "Untitled 2.md",
+    "Comp Sci/Pathfinding Algorithms.md",
+    "Comp Sci/Dijkstra's and A+ worksheet.md",
+    "Chemistry/Forming coloured ions.md",
+    "Ink/Drawing/2025.3.12 - 16.16pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Chemistry/Cisplatin.pdf",
+    "Chemistry/Pasted image 20250310161819.png",
+    "Electronics/Pasted image 20250304081409.png",
+    "Electronics/Pasted image 20250303221852.png",
+    "Untitled.canvas",
+    "Electronics/Communications systems/AM and FM.gif",
     "Coursework 2/Photos/Voltage.png",
     "Coursework 2/Photos/State DIagram.png",
     "Coursework 2/Photos/discharge time.JPG",
     "Coursework 2/Photos/IMG_1656.png",
     "Coursework 2/Photos/charge time.JPG",
-    "Coursework 2/Analock.md",
     "Coursework 2/Photos/IMG_1659.png",
-    "Coursework 2/Photos/missingPulldownResistor.png",
     "Coursework 2/Photos/~ischarge time.tmp",
     "Coursework 2/Photos/discharge time.JPG.~tmp",
-    "Coursework 2/Photos/Discharge TIme.png",
-    "Alarm Clock folder/Electronics Write up.pdf",
-    "Alarm Clock folder/Electronics Write up.md",
-    "Coursework 2/Photos/blank curve.JPG",
-    "Coursework 2/Photos/Charge Time.png",
-    "Coursework 2/Solenoid Calculations.md",
-    "Coursework 2/Photos/~MG_1675.tmp",
-    "Coursework 2/Photos/IMG_1675.JPG.~tmp",
-    "Coursework 2/Photos/Scanned 2 Dec 2024 at 13_45_07.pdf",
-    "Coursework 2/Magnets.md",
-    "Semiconductor Components.md",
-    "Revision Topics.md",
-    "Microcontrollers.md",
-    "Definitions.md",
-    "Communications systems/Noise and Distortion.md",
-    "data sheet.pdf",
-    "Communications systems/Frequency modulation.md",
-    "Communications systems/Amplitude modulation.md",
-    "Communications systems/Analogue to Digital converters.md",
-    "Sequential Logic.md",
-    "General",
-    "Timing Circuits.md",
-    "Practice paper.md",
-    "Alarm Clock folder/PIC Alarm Clock Testing.md",
-    "Equation Sheet.md",
-    "Menu.md",
-    "Communications systems",
-    "Coursework 2/Photos/Resistor error.HEIC~~",
-    "Basic Logic.md",
-    "Main Power Supplies/Main Power Supplies.md",
-    "Operational Amplifiers.md",
-    "Untitled.canvas"
+    "Alarm Clock folder/Electronics Write up.pdf"
   ]
 }

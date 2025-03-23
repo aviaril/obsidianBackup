@@ -5,13 +5,26 @@
 The simplest type of database is a flat tile consisting of information on a single entity.
 Row = Record
 Column = Field
-#### Problems With Flat Tile
+#### Flat Tile
 - Data Repetition wastes space and means more potential for data entry errors
 - Data can be inconsistent if stored more than once
 - The same ID number can be stored in multiple rows so you cannot retrieve a unique record with the ID 
 - Multiple records may have to be deleted potentially resulting in a deletion anomaly 
 - Multiple records may have to be added potentially resulting in an addition anomaly 
 - Multiple records may have to be updated potentially resulting in an amendment anomaly   
+- Only good for a limited amount of data 
+- Easier to set up 
+- Poor security 
+- Data format difficult to change 
+#### Relational 
+- Can hold a large amount of data 
+- Reduces replication 
+- Improves data integrity 
+- Easy to change data format 
+- Improves security 
+	- Can set up access and view permissions 
+- Easy to link to other applications 
+- 
 ##### Solving The Problems #####
 *Primary Key* - A unique identifier
 *Secondary key* - Does not need to be unique and is usually a field that is useful for searching.
@@ -23,12 +36,15 @@ Composite/compound key - using more than one field as a primary key.
 - *Deletion anomaly* - Where data is stored multiple times one entry can be deleted but the other may not be resulting in data that should have been deleted remaining in the database
 - *Addition anomaly* - Where data is stored multiple times one 
 
-#### Normalisation####
+#### Normalisation
 The process of breaking a flat file down into several related tables.
 - **First Normal form (1NF)** - There are no repeating fields, the data is atomic and there is a primary key.
 - **Second Normal Form** (2NF) - The data is in First Normal Form and every field is dependent on the whole primary key.
 - **Third Normal Form (3NF)** - The data is already in 2NF and there are no transitive relationships (non key items are dependent on each other).
+	- Everything is dependent on the key, the whole key and nothing but the key. 
 
+
+Referential integrity - When you remove a customer you need to remove all of the customers data so there is no leftover data (customer is just an example this applies to other situations as well) 
 
 For M:N relationships a link table is put in the middle to identify fields uniquely, an example of this that a doctor can have many patients and a patient can see many doctors, in this example the link table might be a table of appointments.
 

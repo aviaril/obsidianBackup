@@ -1,0 +1,1 @@
+- A stereoisomer is a molecule that has the same structural formula 

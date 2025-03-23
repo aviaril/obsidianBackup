@@ -39,4 +39,14 @@ Class Rectangle inherits GeometricObject
 - Makes sure that other classes can only alter an attribute in the intended way 
 - Stops attributes from being accidentally changed on other class's methods. 
 ### instantiation 
-- 
+
+--- 
+#### Recap
+Class - piece of code that is instantiated into an object - template / blueprint of an object 
+Object - runtime representation of a class 
+functions and procedures are called methods in OOP
+Variables are called attributes in OOP
+Inheritance is when a class takes a method or attribute from a parent class 
+encapsulation - Hiding attributes from classes to that they have to use getters/setters to change them  
+Getters and setters make the program more robust as there are less methods that can access and change the attributes 
+A constructor is a procedure that instantiates an object 

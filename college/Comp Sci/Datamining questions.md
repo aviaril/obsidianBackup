@@ -1,0 +1,1 @@
+1. They use datamining techniques to find patterns in a large dataset. 

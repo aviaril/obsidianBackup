@@ -1,0 +1,2 @@
+When in reverse bias prevents current flow until it voltage reaches Zener voltage when it lets current flow freely 
+A small holding current is needed to keep the diode in breakdown, if this is not reached the diode will not maintain the rated voltage. 

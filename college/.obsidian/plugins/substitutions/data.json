@@ -5,6 +5,21 @@
     "initialized": true,
     "records": [
       {
+        "from": "blank#",
+        "to": "⠀",
+        "enabled": true
+      },
+      {
+        "from": "teh",
+        "to": "the",
+        "enabled": true
+      },
+      {
+        "from": "^_",
+        "to": "$\\overline{}$",
+        "enabled": true
+      },
+      {
         "from": "Delta#",
         "to": "Δ",
         "enabled": true

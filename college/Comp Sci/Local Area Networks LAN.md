@@ -1,0 +1,1 @@
+A Local area network is a collection of computers at the same site 

@@ -1,0 +1,2 @@
+1. NaCl has a high melting point because it has a giant ionic lattice structure. This has strong ionic bonds between the atoms because of their different charges. 
+	1. PCl$_3$ has a low melting point because of the weak intermolecular forces, these forces are 

@@ -1,0 +1,1 @@
+Operand is the address of the data we want 
