@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiCamera",
       "BoBxsBolt",
       "LiComputer",
       "LiAtom",
-      "BoBxCamera",
-      "TiLockBolt"
+      "BoBxCamera"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "Coursework 2/Analock.md": "TiFileText",
   "Chemistry": "LiAtom",
   "Comp Sci": "LiComputer",
-  "Electronics": "BoBxsBolt"
+  "Electronics": "BoBxsBolt",
+  "Misc Screenshots": "TiCamera"
 }

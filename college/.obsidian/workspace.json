@@ -8,45 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e85e4e8d615586cf",
+            "id": "12a4d6595d349b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion.md",
+                "file": "Advanced article.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Advanced article"
             }
           },
           {
-            "id": "5e032ef33f634a2f",
+            "id": "97950fca47d95327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recursion exam questions.md",
+                "file": "Rusting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recursion exam questions"
+              "title": "Rusting"
             }
           },
           {
-            "id": "5f6f0932fc1d5690",
+            "id": "a25b8c538da9899d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Coursework 2/Analock.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analock"
+              "title": "Untitled"
             }
           }
         ],
@@ -82,8 +82,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "datam",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Coursework 2/Analock.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Analock"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -223,11 +223,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f6f0932fc1d5690",
+  "active": "a25b8c538da9899d",
   "lastOpenFiles": [
-    "Binary.md",
+    "Untitled.md",
+    "Rusting.md",
+    "Misc Screenshots/Screenshot 2025-03-26 145723.png",
+    "Misc Screenshots",
+    "Pasted image 20250326145730.png",
+    "Ink/Drawing/2025.3.26 - 14.38pm.drawing",
+    "Advanced article.md",
+    "Chemistry/Advanced article.md",
+    "translator exam questions.md",
+    "Revision q.md",
+    "How Compilers work.md",
+    "Comp Sci/Translation.md",
+    "Electrochem cells practical.md",
+    "Further electrochemical cells.md",
+    "Electronics/Coursework 2/Analock.md",
     "recursion exam questions.md",
     "Recursion.md",
+    "Ink/Drawing/2025.3.24 - 14.27pm.drawing",
+    "Ink/Drawing/2025.3.24 - 14.19pm.drawing",
+    "Ink/Drawing/2025.3.24 - 14.18pm.drawing",
+    "Ink/Drawing/2025.3.24 - 14.17pm.drawing",
+    "Binary.md",
     "Iteration.md",
     "Chemistry/Pag notes.md",
     "Comp Sci/Dijkstra's Algorithm.md",
@@ -241,23 +260,9 @@
     "Comp Sci/Theory/Software/Databases.md",
     "Comp Sci/Comp Sci Revision topics Mock.md",
     "Comp Sci/Comp Sci practice questions mock.md",
-    "Comp Sci/Basic Markdown.md",
-    "Chemistry/Colorimetry.md",
     "Ink/Drawing/2025.3.12 - 14.22pm.drawing",
     "Ink/Drawing/2025.3.12 - 14.20pm.drawing",
-    "Comp Sci/Processor practice questions.md",
-    "Comp Sci/A star.md",
-    "Comp Sci/Immediate Addressing.md",
-    "Comp Sci/Addressing memory.md",
-    "Comp Sci/Indirect Addressing.md",
-    "Untitled 2.md",
-    "Comp Sci/Pathfinding Algorithms.md",
-    "Comp Sci/Dijkstra's and A+ worksheet.md",
-    "Chemistry/Forming coloured ions.md",
     "Ink/Drawing/2025.3.12 - 16.16pm.drawing",
-    "Ink/Drawing",
-    "Ink",
-    "Chemistry/Cisplatin.pdf",
     "Chemistry/Pasted image 20250310161819.png",
     "Electronics/Pasted image 20250304081409.png",
     "Electronics/Pasted image 20250303221852.png",
@@ -266,11 +271,6 @@
     "Coursework 2/Photos/Voltage.png",
     "Coursework 2/Photos/State DIagram.png",
     "Coursework 2/Photos/discharge time.JPG",
-    "Coursework 2/Photos/IMG_1656.png",
-    "Coursework 2/Photos/charge time.JPG",
-    "Coursework 2/Photos/IMG_1659.png",
-    "Coursework 2/Photos/~ischarge time.tmp",
-    "Coursework 2/Photos/discharge time.JPG.~tmp",
-    "Alarm Clock folder/Electronics Write up.pdf"
+    "Coursework 2/Photos/IMG_1656.png"
   ]
 }
