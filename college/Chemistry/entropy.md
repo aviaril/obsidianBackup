@@ -8,7 +8,7 @@ Entropy increases as a substance goes from a solid to a liquid to a gas. This is
 feasible - a reaction could happen but it requires some input to start 
 spontaneous - a reaction will happen without any input 
 all spontaneous reactions are feasible but not vice versa 
-Even if the ΔH is positive there may still be a point where the temperature in high enough for the reaction to become feasible 
+Even if the ΔH is positive there may still be a point where the temperature is high enough for the reaction to become feasible 
 $$
 t= \frac{\Delta H}{\Delta S}
 $$

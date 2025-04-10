@@ -1,0 +1,8 @@
+- resource sharing 
+	- ensuring fair allocation of resources 
+- file handling 
+	- Allowing access to and manipulation of files dependent on the identity of the user 
+- Automatic backups 
+	- so that data is not lost if it is corrupted 
+- Handling communication
+	- controls movement of data via use of agreed protocols 

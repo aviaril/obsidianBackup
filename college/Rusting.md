@@ -23,7 +23,7 @@ $$
 ![[Pasted image 20250326145730.png]]
 More iron will be taken from the middle of the droplet where there are less electrons, the 
 ## Corrosion prevention
-### Impressed current Cathodic Protecti
+### Impressed current Cathodic Protection
 on
 - method of rust prevention 
 - A subset of cathodic protection

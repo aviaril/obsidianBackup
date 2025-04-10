@@ -8,45 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12a4d6595d349b32",
+            "id": "589ad24658938cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced article.md",
+                "file": "Comp Sci/Theory/Software/TCP IP Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced article"
+              "title": "TCP IP Stack"
             }
           },
           {
-            "id": "97950fca47d95327",
+            "id": "db4b903ec04cc8b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rusting.md",
+                "file": "Search engine indexing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rusting"
+              "title": "Search engine indexing"
             }
           },
           {
-            "id": "a25b8c538da9899d",
+            "id": "902264d05f00a2e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Electronics/Coursework 2/Analock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Analock"
+            }
+          },
+          {
+            "id": "68acab15d5e2a936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network exam question.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network exam question"
+            }
+          },
+          {
+            "id": "5df80b072d6c3db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems development lifecycle (SDLC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Systems development lifecycle (SDLC)"
+            }
+          },
+          {
+            "id": "03cbeff4b5432416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copper in brass practical lesson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper in brass practical lesson"
             }
           }
         ],
@@ -82,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Electronics/Coursework 2/Analock.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Analock"
             }
           },
           {
@@ -223,54 +266,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a25b8c538da9899d",
+  "active": "902264d05f00a2e1",
   "lastOpenFiles": [
+    "brass screw practical.md",
+    "Search engine indexing.md",
+    "Comp Sci/Theory/Software/TCP IP Stack.md",
+    "Systems development lifecycle (SDLC).md",
+    "Network exam question.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "Comp Sci/Comp Sci revision questions.md",
+    "Copper in brass practical lesson.md",
+    "Pasted image 20250402142642.png",
+    "Network operating system.md",
+    "Comp Sci/Local Area Networks LAN.md",
+    "Advanced article y2.md",
+    "Electronics/Coursework 2/Analock.md",
+    "Electronics/Coursework 2/Photos/Resistor error.png",
+    "Electronics/Communications systems/Analogue to Digital converters.md",
+    "Advanced article lesson.md",
+    "Pasted image 20250327110028.png",
+    "Pasted image 20250331124131.png",
+    "Pasted image 20250331124054.png",
+    "Chemistry/entropy.md",
+    "Ink/Drawing/2025.3.31 - 14.46pm.drawing",
+    "Chemistry/Advanced article.md",
+    "Pasted image 20250331124234.png",
+    "Comp Sci exam Questions.md",
+    "Digital Threats.md",
+    "tcp ip stack questions.md",
     "Rusting.md",
     "Misc Screenshots/Screenshot 2025-03-26 145723.png",
     "Misc Screenshots",
     "Pasted image 20250326145730.png",
     "Ink/Drawing/2025.3.26 - 14.38pm.drawing",
-    "Advanced article.md",
-    "Chemistry/Advanced article.md",
     "translator exam questions.md",
     "Revision q.md",
     "How Compilers work.md",
     "Comp Sci/Translation.md",
     "Electrochem cells practical.md",
-    "Further electrochemical cells.md",
-    "Electronics/Coursework 2/Analock.md",
-    "recursion exam questions.md",
-    "Recursion.md",
     "Ink/Drawing/2025.3.24 - 14.27pm.drawing",
     "Ink/Drawing/2025.3.24 - 14.19pm.drawing",
     "Ink/Drawing/2025.3.24 - 14.18pm.drawing",
     "Ink/Drawing/2025.3.24 - 14.17pm.drawing",
-    "Binary.md",
-    "Iteration.md",
-    "Chemistry/Pag notes.md",
-    "Comp Sci/Dijkstra's Algorithm.md",
-    "Chemistry/Cells and Half Cells.md",
     "Ink/Drawing/2025.3.19 - 15.09pm.drawing",
-    "Comp Sci/Datamining questions.md",
-    "Comp Sci/Transaction Processing.md",
-    "Comp Sci/Datamining.md",
-    "Comp Sci/Direct addressing.md",
-    "Electronics/Adders.md",
-    "Comp Sci/Theory/Software/Databases.md",
-    "Comp Sci/Comp Sci Revision topics Mock.md",
-    "Comp Sci/Comp Sci practice questions mock.md",
     "Ink/Drawing/2025.3.12 - 14.22pm.drawing",
     "Ink/Drawing/2025.3.12 - 14.20pm.drawing",
-    "Ink/Drawing/2025.3.12 - 16.16pm.drawing",
     "Chemistry/Pasted image 20250310161819.png",
     "Electronics/Pasted image 20250304081409.png",
-    "Electronics/Pasted image 20250303221852.png",
-    "Untitled.canvas",
-    "Electronics/Communications systems/AM and FM.gif",
-    "Coursework 2/Photos/Voltage.png",
-    "Coursework 2/Photos/State DIagram.png",
-    "Coursework 2/Photos/discharge time.JPG",
-    "Coursework 2/Photos/IMG_1656.png"
+    "Untitled.canvas"
   ]
 }
