@@ -1,0 +1,1 @@
+0 is a natural number in comp sci 

@@ -4,95 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f9197f3a6e859703",
+        "id": "c8da6f111aa9caf7",
         "type": "tabs",
         "children": [
           {
-            "id": "589ad24658938cca",
+            "id": "cb2a0d870ac91f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Sci/Theory/Software/TCP IP Stack.md",
+                "file": "BIOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP IP Stack"
+              "title": "BIOS"
             }
           },
           {
-            "id": "db4b903ec04cc8b6",
+            "id": "5465913b3dfef069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search engine indexing.md",
+                "file": "Vonn Neumann vs Harvard architechture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search engine indexing"
+              "title": "Vonn Neumann vs Harvard architechture"
             }
           },
           {
-            "id": "902264d05f00a2e1",
+            "id": "e97aee1325188e9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Coursework 2/Analock.md",
+                "file": "Comp Sci/Theory/Software/Operating Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analock"
+              "title": "Operating Systems"
             }
           },
           {
-            "id": "68acab15d5e2a936",
+            "id": "b9a076212598b4a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network exam question.md",
+                "file": "Paging & segmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network exam question"
-            }
-          },
-          {
-            "id": "5df80b072d6c3db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems development lifecycle (SDLC).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Systems development lifecycle (SDLC)"
-            }
-          },
-          {
-            "id": "03cbeff4b5432416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Copper in brass practical lesson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Copper in brass practical lesson"
+              "title": "Paging & segmentation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Coursework 2/Analock.md",
+                "file": "Paging & segmentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Analock"
+              "title": "Outline of Paging & segmentation"
             }
           },
           {
@@ -252,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,45 +237,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "902264d05f00a2e1",
+  "active": "b9a076212598b4a4",
   "lastOpenFiles": [
-    "brass screw practical.md",
-    "Search engine indexing.md",
-    "Comp Sci/Theory/Software/TCP IP Stack.md",
-    "Systems development lifecycle (SDLC).md",
-    "Network exam question.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Comp Sci/Comp Sci revision questions.md",
-    "Copper in brass practical lesson.md",
-    "Pasted image 20250402142642.png",
-    "Network operating system.md",
-    "Comp Sci/Local Area Networks LAN.md",
-    "Advanced article y2.md",
+    "Comp Sci/Theory/Software/Operating Systems.md",
+    "Paging & segmentation.md",
+    "Electronics/Alarm Clock folder/Electronics Write up.md",
+    "Electronics/Alarm Clock folder/PIC Alarm Clock Testing.md",
     "Electronics/Coursework 2/Analock.md",
+    "Comp Sci/Dijkstra's Algorithm.md",
+    "Comp Sci/A star.md",
+    "How Compilers work.md",
+    "Untitled 6.md",
+    "Systems development lifecycle (SDLC).md",
+    "Untitled 3.md",
+    "Vonn Neumann vs Harvard architechture.md",
+    "BIOS.md",
+    "Comp Sci/Theory/Software/Databases.md",
+    "WM revision.md",
+    "Untitled 4.md",
+    "Comp Sci/insertion sort.md",
+    "Quicksort.md",
+    "Chemistry/What's In a Medicine/Spectroscopy.md",
+    "Comp Sci/Pathfinding Algorithms.md",
+    "Essay questions.md",
+    "Green chemistry.md",
+    "translator exam questions.md",
+    "Misc Screenshots/Screenshot 2025-03-26 145723.png",
+    "Untitled 5.md",
+    "identifying organic compounds.md",
+    "Merge sort.md",
+    "Pasted image 20250402142642.png",
     "Electronics/Coursework 2/Photos/Resistor error.png",
-    "Electronics/Communications systems/Analogue to Digital converters.md",
-    "Advanced article lesson.md",
     "Pasted image 20250327110028.png",
     "Pasted image 20250331124131.png",
     "Pasted image 20250331124054.png",
-    "Chemistry/entropy.md",
     "Ink/Drawing/2025.3.31 - 14.46pm.drawing",
-    "Chemistry/Advanced article.md",
     "Pasted image 20250331124234.png",
-    "Comp Sci exam Questions.md",
-    "Digital Threats.md",
-    "tcp ip stack questions.md",
-    "Rusting.md",
-    "Misc Screenshots/Screenshot 2025-03-26 145723.png",
     "Misc Screenshots",
     "Pasted image 20250326145730.png",
     "Ink/Drawing/2025.3.26 - 14.38pm.drawing",
-    "translator exam questions.md",
-    "Revision q.md",
-    "How Compilers work.md",
-    "Comp Sci/Translation.md",
-    "Electrochem cells practical.md",
     "Ink/Drawing/2025.3.24 - 14.27pm.drawing",
     "Ink/Drawing/2025.3.24 - 14.19pm.drawing",
     "Ink/Drawing/2025.3.24 - 14.18pm.drawing",

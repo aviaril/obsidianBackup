@@ -53,10 +53,11 @@
 #### Uses
 - good for reasonably large projects where initial requirements may change 
 - can take time to produce prototypes and getting feedback 
-## Agile 
+## Agile / Extreme
 - focus on iterative development 
 - stages called sprints may not be completed in sequence 
 - Daily stand up (scrum) gives feedback to whole team about progress 
+- focus on code quality over documentation 
 - can include pair programming 
 - can change requirements at any point 
 - involves lots of user feedback 

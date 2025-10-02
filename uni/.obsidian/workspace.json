@@ -1,0 +1,378 @@
+{
+  "main": {
+    "id": "e2f2cf324ae4304f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6099010efac2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b737b8c387188e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to multimedia - Paul & Dan/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "f1e2497c92b011ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to multimedia - Paul & Dan/Multimedia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multimedia"
+            }
+          },
+          {
+            "id": "900ea614a3e4d8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossary"
+            }
+          },
+          {
+            "id": "f3f40d1e4de529cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to programming - Chris/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "54bc82825aaafb75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to programming - Chris/Objects and Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects and Classes"
+            }
+          },
+          {
+            "id": "29391c5fbd4a8a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematical concepts - niel de Beudrap/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "1860cbbe8793b6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematical concepts - niel de Beudrap/Propositions and predicates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Propositions and predicates"
+            }
+          },
+          {
+            "id": "7f526850e81c3ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematical concepts - niel de Beudrap/Hidden figures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hidden figures"
+            }
+          },
+          {
+            "id": "780138bcd8384bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to programming - Chris/Sets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sets"
+            }
+          },
+          {
+            "id": "5c7847a2a6fec7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematical concepts - niel de Beudrap/existential quantifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "existential quantifiers"
+            }
+          },
+          {
+            "id": "79979602a97f9a0b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "fceb7f14e61eebb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to programming - Chris/Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure"
+            }
+          },
+          {
+            "id": "5d4322b092ed0e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constructors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constructors"
+            }
+          },
+          {
+            "id": "711bd20de11bd654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to programming - Chris/variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "variables"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3d7ac5b93322edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b4af4c9026dfc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782a18b28580f00f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd8c99113c3c096c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69a22dd89d6f08bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3737e7732f4d9fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b76802bb54839bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1225395b31379926",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming concepts - Philip/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "fb97fba539a559fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming concepts - Philip/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "ebe7e3685a42890b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bbb97a8a547353f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intro to programming - Chris/variables.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of variables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "782a18b28580f00f",
+  "lastOpenFiles": [
+    "Constructors.md",
+    "Intro to programming - Chris/variables.md",
+    "Intro to programming - Chris/Structure.md",
+    "mathematical concepts - niel de Beudrap/Sets.md",
+    "mathematical concepts - niel de Beudrap/Sets 1.md",
+    "mathematical concepts - niel de Beudrap/Propositions and predicates.md",
+    "mathematical concepts - niel de Beudrap/existential quantifiers.md",
+    "mathematical concepts - niel de Beudrap/Hidden figures.md",
+    "Miscellaneous.md",
+    "Glossary.md",
+    "Programming concepts - Philip/language design.md",
+    "Programming concepts - Philip/Algorithms.md",
+    "Intro to programming - Chris/Objects and Classes.md",
+    "Intro to programming - Chris/Intro.md",
+    "Intro to multimedia - Paul & Dan/Website.md",
+    "Intro to multimedia - Paul & Dan/Multimedia.md",
+    "Programming concepts - Philip/Teaching.md",
+    "mathematical concepts - niel de Beudrap/Intro.md",
+    "mathematical concepts - niel de Beudrap",
+    "Intro to programming - Chris",
+    "Intro to multimedia - Paul & Dan/Intro.md",
+    "Intro to multimedia - Paul & Dan",
+    "Programming concepts - Philip"
+  ]
+}
