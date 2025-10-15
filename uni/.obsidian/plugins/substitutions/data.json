@@ -5,6 +5,11 @@
     "initialized": true,
     "records": [
       {
+        "from": "A#",
+        "to": "Ɐ",
+        "enabled": true
+      },
+      {
         "from": "blank#",
         "to": "⠀",
         "enabled": true

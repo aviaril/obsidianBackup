@@ -5,18 +5,26 @@ body{
 }
 
 body.theme-dark{
-    --background-primary: #080e21;
-    --list-marker-color: #D1603D;
-    --list-marker-color-collapsed: #D1603D;
-    --background-secondary: #042c52;
+    --background-primary: #130602;
+    --list-marker-color: #FBB13C;
+    --list-marker-color-collapsed: #FBB13C;
+    --background-secondary: #aa3e01;
+
+    
 }
 
 body.theme-light{
-    --background-primary: #C6C6C9;
+    --background-primary: #080850;
     --list-marker-color: #D1603D;
     --list-marker-color-collapsed: #D1603D;
     --background-secondary: #042c52;
 }
+.cm-header-1 {color: #1B6974}
+.cm-header-2 {color: #1F7884}
+.cm-header-3 {color: #238795}
+.cm-header-4 {color: #2796A5}
+.cm-header-5 {color: #2BA6B6}
+.cm-header-6 {color: #2FB5C6}
 mjx-math {
     font-size: 120% !important;
   }

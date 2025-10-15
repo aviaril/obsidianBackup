@@ -1,0 +1,12 @@
+[[language design]]
+- human readable not computer readable 
+	- coneys intention 
+	- syntax varies 
+	- has semantics 
+		- e.g. C like, Java like 
+		- must understand what all the constructs mean 
+- language agnostic 
+	- easy to implement in any language 
+- precise 
+	- allows us to analyse complexity 
+- in this module it will be based on idealised programming languages 

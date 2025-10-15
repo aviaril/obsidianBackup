@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paging & segmentation.md",
+                "file": "Comp Sci/Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paging & segmentation"
+              "title": "Dijkstra's Algorithm"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paging & segmentation.md",
+                "file": "Comp Sci/Dijkstra's Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paging & segmentation"
+              "title": "Outline of Dijkstra's Algorithm"
             }
           },
           {
@@ -228,6 +228,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -237,16 +238,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9a076212598b4a4",
+  "active": "e1a478cf9285b1a8",
   "lastOpenFiles": [
-    "Comp Sci/Theory/Software/Operating Systems.md",
+    "Comp Sci/Electronics Write up final.pdf",
+    "Comp Sci/Electronics Write up final really this time.pdf",
+    "Comp Sci/factorial.md",
+    "Comp Sci/How Compilers work.md",
+    "Untitled.base",
+    "Comp Sci/insertion sort.md",
     "Paging & segmentation.md",
+    "Comp Sci/Theory/Software/Operating Systems.md",
     "Electronics/Alarm Clock folder/Electronics Write up.md",
     "Electronics/Alarm Clock folder/PIC Alarm Clock Testing.md",
     "Electronics/Coursework 2/Analock.md",
     "Comp Sci/Dijkstra's Algorithm.md",
     "Comp Sci/A star.md",
-    "How Compilers work.md",
     "Untitled 6.md",
     "Systems development lifecycle (SDLC).md",
     "Untitled 3.md",
@@ -255,7 +261,6 @@
     "Comp Sci/Theory/Software/Databases.md",
     "WM revision.md",
     "Untitled 4.md",
-    "Comp Sci/insertion sort.md",
     "Quicksort.md",
     "Chemistry/What's In a Medicine/Spectroscopy.md",
     "Comp Sci/Pathfinding Algorithms.md",
@@ -264,8 +269,6 @@
     "translator exam questions.md",
     "Misc Screenshots/Screenshot 2025-03-26 145723.png",
     "Untitled 5.md",
-    "identifying organic compounds.md",
-    "Merge sort.md",
     "Pasted image 20250402142642.png",
     "Electronics/Coursework 2/Photos/Resistor error.png",
     "Pasted image 20250327110028.png",
@@ -281,8 +284,6 @@
     "Ink/Drawing/2025.3.24 - 14.18pm.drawing",
     "Ink/Drawing/2025.3.24 - 14.17pm.drawing",
     "Ink/Drawing/2025.3.19 - 15.09pm.drawing",
-    "Ink/Drawing/2025.3.12 - 14.22pm.drawing",
-    "Ink/Drawing/2025.3.12 - 14.20pm.drawing",
     "Chemistry/Pasted image 20250310161819.png",
     "Electronics/Pasted image 20250304081409.png",
     "Untitled.canvas"
