@@ -4,67 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "1f25d9b01f4e4a13",
+        "id": "aae933c96f2eb119",
         "type": "tabs",
         "children": [
           {
-            "id": "c3334875df378d08",
+            "id": "45ed4372a3f602e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming concepts - Philip/measuring complexity.md",
+                "file": "Intro to multimedia - Paul & Dan/The Internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "measuring complexity"
+              "title": "The Internet"
             }
           },
           {
-            "id": "f91db5b1fa37add7",
+            "id": "4d1027567a505cab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming concepts - Philip/Insertion sort.md",
+                "file": "Programming concepts - Philip/Hoare triples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insertion sort"
+              "title": "Hoare triples"
             }
           },
           {
-            "id": "841fdaae40c4a6d6",
+            "id": "1e44c417462e51c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming concepts - Philip/language design.md",
+                "file": "Programming concepts - Philip/Jumpy Imp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "language design"
+              "title": "Jumpy Imp"
             }
           },
           {
-            "id": "8b759a49374e0a48",
+            "id": "321642129b305357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro to programming - Chris/Modularization and abstraction.md",
+                "file": "mathematical concepts - niel de Beudrap/existential quantifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modularization and abstraction"
+              "title": "existential quantifiers"
             }
           },
           {
-            "id": "babf89e6648a6215",
+            "id": "efe023502f5dbf7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematical concepts - niel de Beudrap/existential quantifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "existential quantifiers"
+            }
+          },
+          {
+            "id": "1a053f985b003874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "derivatives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "derivatives"
+            }
+          },
+          {
+            "id": "2b151f060d69882a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mathematical concepts - niel de Beudrap/average slope over an interval.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "average slope over an interval"
+            }
+          },
+          {
+            "id": "24d0b2b34886bf09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Singularities and asymptotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singularities and asymptotes"
+            }
+          },
+          {
+            "id": "5f2a3a83c612d154",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,9 +132,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "4e83e650d91b99d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -110,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "singu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3737e7732f4d9fe0",
@@ -227,36 +295,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "782a18b28580f00f",
+  "active": "4e83e650d91b99d7",
   "lastOpenFiles": [
-    "Intro to programming - Chris/Modularization and abstraction.md",
+    "Singularities and asymptotes.md",
     "Untitled.md",
-    "Programming concepts - Philip/language design.md",
-    "Programming concepts - Philip/Programming languages.md",
-    "Programming concepts - Philip/Verification.md",
-    "Programming concepts - Philip/Insertion sort.md",
-    "Programming concepts - Philip/pseudocode.md",
-    "Programming concepts - Philip/Algorithms vs Programs.md",
-    "Programming concepts - Philip/measuring complexity.md",
-    "Intro to multimedia - Paul & Dan/Dynamic web pages.md",
-    "Intro to multimedia - Paul & Dan/HTML5.md",
-    "Intro to programming - Chris/Objects and Classes.md",
-    "Programming concepts - Philip/Teaching.md",
-    "Intro to programming - Chris/variables.md",
-    "Intro to programming - Chris/Conditionals.md",
-    "Intro to programming - Chris/Structure.md",
-    "Intro to programming - Chris/Methods.md",
-    "Intro to programming - Chris/Constructors.md",
-    "Intro to multimedia - Paul & Dan/Website.md",
-    "Intro to multimedia - Paul & Dan/Multimedia.md",
+    "mathematical concepts - niel de Beudrap/average slope over an interval.md",
+    "Intro to multimedia - Paul & Dan/The Internet.md",
     "Intro to multimedia - Paul & Dan/Perception.md",
-    "Intro to multimedia - Paul & Dan/Intro.md",
-    "Intro to multimedia - Paul & Dan/CSS.md",
-    "Glossary.md",
-    "Programming concepts - Philip/Thinking algorithmically practice.md",
+    "mathematical concepts - niel de Beudrap/derivatives.md",
     "mathematical concepts - niel de Beudrap/existential quantifiers.md",
+    "mathematical concepts - niel de Beudrap/Hidden figures.md",
+    "mathematical concepts - niel de Beudrap/Intro.md",
+    "mathematical concepts - niel de Beudrap/Propositions and predicates.md",
+    "mathematical concepts - niel de Beudrap/Sets.md",
+    "Intro to programming java - Chris/Arrays.md",
+    "Intro to programming java - Chris/Iteration and Loops.md",
+    "Intro to programming java - Chris/Conditionals.md",
+    "Intro to programming java - Chris/Constructors.md",
+    "Intro to programming java - Chris/Intro.md",
+    "Intro to programming java - Chris/variables.md",
+    "Programming concepts - Philip/Jumpy Imp.md",
+    "Programming concepts - Philip/Teaching.md",
+    "Programming concepts - Philip/return statements.md",
+    "Programming concepts - Philip/Thinking algorithmically practice.md",
+    "Programming concepts - Philip/Verification.md",
+    "Miscellaneous.md",
+    "Glossary.md",
+    "Programming concepts - Philip/Hoare triples.md",
+    "Intro to programming java - Chris/Primitive & object types.md",
     "mathematical concepts - niel de Beudrap",
-    "Intro to programming - Chris",
+    "Intro to programming java - Chris",
     "Intro to multimedia - Paul & Dan",
     "Programming concepts - Philip"
   ]

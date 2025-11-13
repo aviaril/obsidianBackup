@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBookText",
-      "LiFileQuestion",
-      "LiGraduationCap",
-      "TiCamera",
-      "BoBxsBolt"
+      "TiCoffee",
+      "LiCog",
+      "TiMath",
+      "TiMathSymbols",
+      "FabJava"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,9 @@
   "Misc Screenshots": "TiCamera",
   "Programming concepts - Philip/Teaching.md": "LiGraduationCap",
   "Miscellaneous.md": "LiFileQuestion",
-  "Glossary.md": "LiBookText"
+  "Glossary.md": "LiBookText",
+  "mathematical concepts - niel de Beudrap": "TiMath",
+  "Intro to multimedia - Paul & Dan": "LiComputer",
+  "Intro to programming java - Chris": "TiCoffee",
+  "Programming concepts - Philip": "LiCog"
 }

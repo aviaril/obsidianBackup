@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Intro to programming - Chris\"  ",
+      "query": "path:\"Intro to programming java - Chris\"  ",
       "color": {
         "a": 1,
         "rgb": 7352297
@@ -46,6 +46,6 @@
   "repelStrength": 14.7401247401247,
   "linkStrength": 0.978170478170478,
   "linkDistance": 169,
-  "scale": 0.8768406954524453,
+  "scale": 0.2973516359158373,
   "close": true
 }

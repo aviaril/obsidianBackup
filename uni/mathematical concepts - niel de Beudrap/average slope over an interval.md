@@ -1,0 +1,1 @@
+for $\Delta x$ not equal to 0 the average slope of $$ 

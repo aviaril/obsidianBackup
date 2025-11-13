@@ -5,6 +5,16 @@
     "initialized": true,
     "records": [
       {
+        "from": "exist#",
+        "to": "∃",
+        "enabled": true
+      },
+      {
+        "from": "whiles",
+        "to": "while",
+        "enabled": true
+      },
+      {
         "from": "A#",
         "to": "Ɐ",
         "enabled": true
